@@ -2,9 +2,8 @@
 
 ### 使用不同技术栈的相同项目 ：[springboot+vue宿舍管理系统](https://github.com/34426/StudentDormitory)
 
-### 有问题，或者不会调试运行的同学, 可以添加微信(备注项目)：xzxj0206
+### 有问题，或者需要协助调试运行项目的, 可以添加 QQ：2529519551 ，或者wx ：xzxj0206
 
-![img_11.png](imgs/img_11.png)
 
 ## 一、介绍
 
